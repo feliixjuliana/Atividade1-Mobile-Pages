@@ -16,7 +16,7 @@ O objetivo é criar cinco telas com navegação entre elas, simulando um sistema
 Clone o repositório:
 
 ```
-git clone https://github.com/seu-usuario/Atividade1-Mobile-Pages.git
+git clone https://github.com/feliixjuliana/Atividade1-Mobile-Pages.git
 ```
 
 Entre na pasta do projeto:
