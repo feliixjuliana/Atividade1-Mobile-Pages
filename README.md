@@ -16,7 +16,7 @@ O objetivo é criar cinco telas com navegação entre elas, simulando um sistema
 Clone o repositório:
 
 ```
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/seu-usuario/Atividade1-Mobile-Pages.git
 ```
 
 Entre na pasta do projeto:
@@ -31,19 +31,10 @@ Instale as dependências:
 npm install
 ```
 
-Instale as dependências de navegação:
-
-```
-npm install @react-navigation/native
-npm install @react-navigation/native-stack
-expo install react-native-screens react-native-safe-area-context
-expo install @expo/vector-icons
-```
-
 ## Executar o Projeto
 
 ```
-npx expo start
+npx expo start --tunnel
 ```
 
 ## Estrutura de Telas
@@ -68,7 +59,3 @@ O projeto contém as seguintes telas:
 * Nesta versão o projeto não consome API externa.
 * Os dados não são persistidos.
 * A integração com backend será implementada em atividade futura.
-
----
-
-Se quiser, posso também adaptar para versão acadêmica mais formal ou versão ainda mais resumida.
